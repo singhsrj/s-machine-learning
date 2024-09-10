@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# Machine Learning Application 
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This is a implementation of a machine learning model for practice . should not be taken seriously. adios.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://s-machine-learning.streamlit.app/)
 
 ## GitHub Codespaces
 
