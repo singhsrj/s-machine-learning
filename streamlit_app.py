@@ -6,4 +6,5 @@ st.title('Regression Model ????')
 st.write('Hello World!, this is a Multivariate Regression model under construction.Please stand by')
 
 dataset = pd.read_csv('data.csv')
-X=dataset[:,
+X = dataset.iloc[:, 1:-1].values
+y = dataset.iloc[:, -1].values
